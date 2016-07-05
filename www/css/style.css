@@ -1,0 +1,22 @@
+h2.news-title{
+  white-space: normal;
+/*  height: 3.6em;*/
+}
+
+.news-item.ng-enter {
+    -webkit-animation: fadeInLeft 1s;
+    animation: fadeInLeft 1s;
+}
+
+.news-item.ng-enter-stagger {
+  -webkit-animation-delay:200ms;
+  animation-delay:200ms;
+
+  /* override to make sure it's not inherited from other styles */
+  -webkit-animation-duration:0;
+  animation-duration:0;
+}
+
+.ng-hide-add         { animation:2s fadeOutUp ease; }
+
+.ng-hide-remove      { animation:2s fadeInDown ease; }

@@ -1,0 +1,8 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/Projects_Ionic/newsFabioApplata/gulpfile.js",
+        "C:/Projects_Ionic/newsFabioApplata/www/lib/ionic/js/ionic.min.js",
+        "C:/Projects_Ionic/newsFabioApplata/www/lib/ionic/js/ionic.js",
+        "C:/Projects_Ionic/newsFabioApplata/www/lib/ionic/js/ionic.bundle.min.js"
+    ]
+}
